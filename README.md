@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KristabBhattarai
 - 👀 I’m interested in developing discord bots
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning React.js and React Native
 
 <!---
 KristabBhattarai/KristabBhattarai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
